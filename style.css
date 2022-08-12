@@ -1,0 +1,17 @@
+.h3 {
+box-shadow: 20px;
+padding: 20px;
+margin: auto;
+
+}
+.copy_right_footer {
+    background-color: aqua;
+    font-style: italic;
+    border: 2px;
+    padding: 1px;
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
